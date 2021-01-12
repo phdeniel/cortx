@@ -30,7 +30,7 @@ Kitware is focussing on providing visualition utilities for applications running
 ARM is..
 UKAEA is ..
 University of Edinburgh is..
-CEA is..
+CEA is leading SAGE2/WP3 which aims to build a software ecosystem for CORTX-MOTR, CEA is developing a TensorFlow/MOTR adapter too.
 
   * Maestro R&D project is building a data orchestration software layer that intelligently handles data movement in the I/O stack and has CORTX Motr as one of its primary backends.
 Apart from Seagate - CEA, Juelich, ETH, Appentra, ECMWF and HPE are the key players and the project is lead by Juelich (administration) + HPE (technical).
